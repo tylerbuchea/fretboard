@@ -9,7 +9,7 @@ CoffeeScript and PaperJS.
 
 ## Usage
 
-Simply instantiate a `Vex.Fretboard.Div` passing in the selector of a `div`
+Simply instantiate a `Vex.Flow.FretboardDiv` passing in the selector of a `div`
 element as the first parameter.
 
 Call `build(code)` on the instance to draw. If `code` is specified, it must
